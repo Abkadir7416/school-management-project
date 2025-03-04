@@ -1,6 +1,3 @@
-
-// import Menu from "@/components/Menu";
-// import Navbar from "@/components/Navbar";
 import Navbar from "../components/Navbar";
 import Menu from "../components/Menu";
 import Image from "next/image";
